@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.notes-card::-webkit-scrollbar{
+  display: none;
+}

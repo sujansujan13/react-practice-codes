@@ -1,0 +1,43 @@
+.parent{
+  
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  width: fit-content;
+}
+
+
+
+.btn{
+  font-size: 30px;
+  width: fit-content;
+}
+
+input{
+  font-size: 40px ;
+  margin: 10px 0px 10px 0px;
+}
+
+.box{
+  height: 200px;
+  width:200px;
+  background-color: brown;
+}
+
+
+.page1{
+  height: 100vh;
+  width: 100vw;
+  background-color: crimson;
+}
+
+.page2{
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(190, 190, 221);
+}
+
+.page3{
+  height: 100vh;
+  width: 100vw;
+  background-color: burlywood};

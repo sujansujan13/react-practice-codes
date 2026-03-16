@@ -1,0 +1,20 @@
+.btn {
+  margin: 20px;
+  width: fit-content;
+  font-size: 30px;
+}
+
+.num{
+  background-color: darkgray;
+  margin: 30px;
+  padding: 60px 100px;
+  width: fit-content;
+  border-radius: 5px;
+  font-size: 60px;
+}
+
+button{
+  font-size: 30px;
+  margin: 10px;
+  padding: 30px 40px;
+}

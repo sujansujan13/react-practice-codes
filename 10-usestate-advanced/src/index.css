@@ -1,0 +1,32 @@
+.num{
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: darkgrey;
+  width: fit-content;
+  border-radius: 5px;
+}
+.btn{
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.user{
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.array{
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.function{
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+

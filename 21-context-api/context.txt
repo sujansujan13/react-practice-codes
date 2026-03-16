@@ -1,0 +1,4 @@
+The steps in ContextApi 
+   Create the Context 
+   Provide the Data 
+   Use the Data

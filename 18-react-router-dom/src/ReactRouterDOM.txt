@@ -1,0 +1,23 @@
+BrowserRouter 
+==> sujan.com = /
+    sujan.com/portfolio = /portfolio 
+    sujan.com/about = /about
+
+HashRouter
+==> sujan.com = /#/
+
+MemoryRouter
+
+StatiicRouter
+==> Nextjs
+
+
+Basic Setup
+
+Nested Route
+
+Dynamic Route 
+
+useNavigate
+
+404 page
