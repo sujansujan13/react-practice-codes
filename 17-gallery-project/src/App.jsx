@@ -8,7 +8,7 @@ const App = () => {
   const [index, setIndex] = useState(1);
   const getData = async () => {
     const response = await axios.get(
-      `https://picsum.photos/v2/list?page=${index}&limit=8`
+      `https://picsum.photos/v2/list?page=${index}&limit=8`,
     );
     setData(response.data);
   };
@@ -37,7 +37,7 @@ const App = () => {
         <Pagination
           count={10}
           variant="outlined"
-          shape="rounded"
+          shape="rounded-full"
           onChange={(event, value) => {
             setIndex(value);
             setData([]);
@@ -47,6 +47,9 @@ const App = () => {
             "& .MuiPaginationItem-root": {
               width: "3rem",
               height: "3rem",
+              color: "white",
+              borderColor: "white",
+              borderRadius: "50%",
             },
             "& .Mui-selected": {
               backgroundColor: "red", // current page background
